@@ -12,7 +12,7 @@ namespace TGC.Tools.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "14.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "15.0.1.0")]
     internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
         
         private static Settings defaultInstance = ((Settings)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new Settings())));
@@ -25,7 +25,8 @@ namespace TGC.Tools.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("Media\\")]
+        [global::System.Configuration.DefaultSettingValueAttribute("C:\\Users\\Edgar\\Documents\\Visual Studio 2017\\Projects\\tgc-tools\\TGC.Tools\\bin\\Debu" +
+            "g\\Media\\")]
         public string MediaDirectory {
             get {
                 return ((string)(this["MediaDirectory"]));
@@ -37,7 +38,8 @@ namespace TGC.Tools.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("Shaders\\")]
+        [global::System.Configuration.DefaultSettingValueAttribute("C:\\Users\\Edgar\\Documents\\Visual Studio 2017\\Projects\\tgc-tools\\TGC.Tools\\bin\\Debu" +
+            "g\\Shaders\\")]
         public string ShadersDirectory {
             get {
                 return ((string)(this["ShadersDirectory"]));

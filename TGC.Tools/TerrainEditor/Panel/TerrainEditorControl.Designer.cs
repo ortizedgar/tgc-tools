@@ -1571,7 +1571,7 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn largeChangeDataGridViewTextBoxColumn;
         private System.Windows.Forms.DataGridViewCheckBoxColumn autoSizeDataGridViewCheckBoxColumn;
         private System.Windows.Forms.DataGridViewTextBoxColumn Value;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Tag;
+        private new System.Windows.Forms.DataGridViewTextBoxColumn Tag;
         private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn1;
         private System.Windows.Forms.TabPage pageExport;
         private System.Windows.Forms.SaveFileDialog saveFileHeightmap;
